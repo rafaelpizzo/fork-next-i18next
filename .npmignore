@@ -1,0 +1,39 @@
+# Untranspiled source and examples
+src
+examples
+
+# Dependencies
+node_modules
+yarn.lock
+
+# NextJs
+.next
+out
+
+# OS
+.DS_Store
+
+# Development Environment
+.vscode
+
+# Logs
+runtime.log
+
+# Testing
+__tests__
+coverage
+jest.*
+.e2e
+
+# Build tools
+tsconfig.json
+
+# Misc
+.circleci
+.all-contributorsrc
+greenkeeper.json
+jest-puppeteer.config.js
+.github
+Procfile
+*.md
+scripts
