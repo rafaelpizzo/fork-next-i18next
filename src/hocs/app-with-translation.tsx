@@ -5,7 +5,7 @@ import hoistNonReactStatics from 'hoist-non-react-statics';
 import { I18nextProvider, withSSR } from 'react-i18next';
 
 import { nextI18NextMiddleware } from '../middlewares';
-import { lngFromReq, lngPathCorrector, lngsToLoad } from '../utils';
+import { lngsToLoad } from '../utils';
 import { NextStaticProvider } from '../components';
 import { isServer } from '../utils';
 interface Props {
