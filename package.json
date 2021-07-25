@@ -1,6 +1,6 @@
 {
     "name": "fork-next-i18next",
-    "version": "7.0.1-a",
+    "version": "1.0.0",
     "repository": "git@github.com:rafaelpizzo/fork-next-i18next.git",
     "main": "dist/commonjs/index.js",
     "types": "./types.d.ts",
